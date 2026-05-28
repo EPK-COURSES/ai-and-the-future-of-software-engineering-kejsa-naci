@@ -28,6 +28,13 @@ AI also creates opportunity in the junior developer role. A number of the AI dri
 Ultimately the role of junior developers is changing, not diminishing. AI continues to take on the repetitive and mundane tasks within development, however human interaction and capabilities such as creativity, communication, critical thinking and problem solving of complex software are still required and these are jobs which AI will be incapable of performing in the foreseeable future. Junior developers willing to keep on learning will also continue to remain important figures in software development.
 
 ## 4. Future Expectations from Senior Engineers
+AI has become the driving factor that raises the status of senior software engineers. The nature of AI can help automate the mundane and repetitive coding tasks, yet require senior engineers to monitor AI-generated codes, make tech decisions, and orchestrate large software architecture [1]. Businesses now depend on senior engineers to make sure AI-generated codes are safe, stable and correct in their purposes.
+
+A critical responsibility for senior engineers now is verifying and examining the codes written by AI. While AI tools could enhance development speed and efficiency, they may also produce errors and insecure codes [4]. It is senior engineers who should review and confirm codes written by AI with professional knowledge and critical thinking ability to achieve higher quality of software system.
+
+More importantly, software architect ability and leadership is becoming the increasingly crucial traits of senior engineers in AI era. They are supposed to manage and lead the entire dev team, educate junior members and architect highly scalable system which is not currently possible with AI [5]. Human are responsible for the communication, decision making and problem-solving part, which cannot be covered by AI.
+
+Therefore, AI is definitely not leading to the decline of the importance of senior engineers but instead transforming the position and elevating the role in the development team.
 
 ## 5. Emerging AI-Related Engineering Roles
 
