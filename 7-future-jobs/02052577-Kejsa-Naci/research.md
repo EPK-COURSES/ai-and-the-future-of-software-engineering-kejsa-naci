@@ -66,6 +66,14 @@ There are certain risks involved in an organization relying solely on automation
 
 ## 7. Human Skills That AI Cannot Easily Replace
 
+One of the most prevalent impact of AI on the field of software engineering is its ability to automate redundant work in software development. With advancements in AI, it can help developers by generating code, documenting the software, suggesting corrections, writing test cases and providing support in debugging (Peng et al., 2023). All these are done relatively faster than a manual approach for software teams.
+
+The Automation of tasks in the development process has sped up several software development practices. Instead of writing code manually over and over again, developers get to focus on more demanding activities like system design, system architecture and other problems encountered during software development (Vaithilingam et al., 2022). Studies have shown how AI code generation has decreased the amount of effort and time spent on writing code while improving the workflow and efficiency.
+
+However, the suggestions given by the AI aren't always perfect and they often require human intervention. While AI systems are known to create code with bugs and vulnerabilities or produce outputs which do not adhere to the constraints or project requirements (Sobania et al., 2022), they also provide many opportunities for engineers to overcome problems in software development in an easier way, thus saving time and effort. Hence, human evaluation and testing is still an integral part of development process.
+
+There are certain risks involved in an organization relying solely on automation. The reliance on automation tools could result in a lack of technical experience for the software engineers and their problem solving skills might weaken over a period of time (Denny et al., 2023). It is important to maintain a fine line between relying on automation and using one's own judgment while developing software.
+
 ## 8. Personal Reflection and Future Career Adaptation
 
 ## 9. Conclusion
