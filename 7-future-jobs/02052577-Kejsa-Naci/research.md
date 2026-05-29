@@ -76,4 +76,10 @@ There are certain risks involved in an organization relying solely on automation
 
 ## 8. Personal Reflection and Future Career Adaptation
 
+Upon reviewing literature regarding the implications of AI on software engineering jobs, it has become clear that Artificial Intelligence is more likely to reshape, not replace, software engineering roles. Before undertaking this study, I had predicted that eventually, AI would eventually usurp a majority of software engineering jobs, however, through the reviewed literature in this study, AI will more accurately automate many mundane, repetitive tasks, enhancing the productivity of the engineer, while human expertise will still be relied upon for creativity, critical thinking, communication and decision making.
+
+Another surprising element from my findings was how integrated AI tools have become in the current software engineering profession, with engineers now using AI to generate code, help with debuggers and automate simple tasks. Whilst this is very useful and efficient, this can pose problems for entry level positions in engineering roles, as it has to be made sure that engineers build a strong foundational knowledge instead of solely relying on AI-generated programs (Denny et al. 2023).
+
+As far as my future career is concerned, I can tell that my attitude towards it will now change slightly because I can clearly see the influence of AI, and know I will need to keep in touch with these changes if I am to succeed. I do not perceive AI as an immediate threat; rather I will use it as a means to increase productivity where it is beneficial to use. To succeed as a future engineer, I intend to enhance my current knowledge of programming, further my ability to problem solve, and to further develop skills concerning the software architecture, communications and teamwork elements of software engineering.
+
 ## 9. Conclusion
