@@ -36,4 +36,3 @@ https://arxiv.org/abs/2206.15331
 [12] Wang, Y., Liu, X., & Chen, H. (2024). AI-assisted software development and the changing role of software engineers. IEEE Access, 12, 44521–44535.
 https://ieeexplore.ieee.org/document/10451234
 
-These are much stronger for an academic paper because they are actual research papers, conference papers, journal publications, and scholarly studies rather than blogs or news articles.
